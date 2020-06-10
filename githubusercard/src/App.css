@@ -3,7 +3,7 @@
 }
 
 body{
-  background-color: blue;
+  background-color: white;
 }
 
 .App-logo {
@@ -53,4 +53,11 @@ img {
   border-radius: 50%;
 }
 
+.followers {
+  display: flex;
+  flex-wrap: wrap;
+}
 
+p {
+  color: black;
+}

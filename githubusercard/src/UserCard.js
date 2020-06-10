@@ -8,7 +8,7 @@ const Styled = styled.div`
 `;
 
 const StyledH1 = styled.h1`
-  color:red;
+  color:black;
   margin-left:20px;
 `;
 

@@ -6,9 +6,8 @@ export default class App extends React.Component {
   render(){
     return (
       <div className="App">
-        <h1>Followers</h1>
+        <h1>Myself</h1>
         <User />
-
       </div>
     );
   }
